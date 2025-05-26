@@ -1,0 +1,14 @@
+# Core data processing
+pandas==2.2.2
+pyarrow==15.0.2  # For parquet file support
+
+# Modeling
+xgboost==2.0.3
+scikit-learn==1.4.2
+joblib==1.4.0  # For saving/loading model
+
+# Visualization
+matplotlib==3.8.4
+
+# CLI tool
+click==8.1.7
